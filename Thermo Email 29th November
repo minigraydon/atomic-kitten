@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!--[if gte mso 9]><xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml><![endif]-->
+
+    <title>Automated cell counts with regulatory compliance</title>
+
+    <!--
+SL1: Automated cell counts with regulatory compliance
+SL2: 21 CFR Part 11–ready automated cell counter
+SL3: Traceable, secure automated cell counts
+-->
+
+    <style type="text/css">
+
+        /* Various client-specific fixes */
+        #outlook a {
+            padding: 0;
+        }
+
+        .ExternalClass {
+            width: 100% !important;
+        }
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        a img {
+            border: none;
+        }
+
+        .applelinks a {
+            color: #333333;
+            text-decoration: none;
+        }
+
+        .ExternalClass img[class^=Emoji] {
+            width: 10px !important;
+            height: 10px !important;
+            display: inline !important;
+        }
+
+        /* Mobile styles */
+        @media screen and (max-width: 600px) {
+            *[class=mainwrap] {
+                width: 320px !important;
+                height: auto !important;
+            }
+            *[class=imgfill] {
+                width: 100% !important;
+                height: auto !important;
+                padding: 0px !important;
+            }
+            *[class=mobinvis] {
+                display: none !important;
+            }
+            *[class=mobpad-0-0-0-0] {
+                padding: 0px 0px 0px 0px !important;
+            }
+            *[class=mobpad-0-0-10-0] {
+                padding: 0px 0px 10px 0px !important;
+                width: 100% !important;
+            }
+            *[class=mobpad-0-13-0-13] {
+                padding: 0px 13px 0px 13px !important;
+                width: 100% !important;
+            }
+            *[class=mobpad-10-13-10-13] {
+                padding: 10px 13px 10px 13px !important;
+                width: 100% !important;
+            }
+            *[class=colwrap] {
+                display: block !important;
+                width: 100% !important;
+            }
+        }
+    </style>
+</head>
+
+<!--------------------------
+
+-= DESIGNER CHEAT SHEET =-
+
+---
+
+TFS BRAND COLOR PALETTE
+
+Primary:
+#ee3134 Red-TF-TS-IVGN
+#555759 Gray-Ion
+#262262 Dark Blue-AB
+#005DAA Light Blue
+
+Secondary, Tertiary, Accents:
+#522d6d
+#065056
+#00548b
+#f6b436
+
+#7474c1
+#98d2dd
+#1e8ae7
+#7fba00
+
+#006680
+#ad1e2d
+#ed7700
+
+---
+
+OMNITURE CODE:
+
+B&B:
+
+
+MAP:
+?CID=%%CELLNAME%%&EMID=%%EMAIL%%
+
+--------------------------->
+
+<body>
+    <!--#### MAIN WRAPPER ####-->
+    <table class="mainwrap" width="600" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+
+        <!--#### PREHEADER ####-->
+        <tr>
+            <td class="mobpad-10-13-10-13" width="100%" valign="top" style="padding-top: 0px; padding-right: 25px; padding-bottom: 12px; padding-left: 25px;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                    <tr>
+                        <td style="padding: 0px;">
+                            <!--#### preheader one ####-->
+                            <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url=="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url=https://www.thermofisher.com/us/en/home/life-science/cell-analysis/cell-analysis-instruments/automated-cell-counters.html" target="_blank" style="color: #6caae3; text-decoration:underline;">Explore automated cell counters that are regulatory compliant and designed to meet the needs of any lab.</a>
+
+
+
+                            <!--#### view as webpage ####-->
+                            <br /></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //PREHEADER ####-->
+
+        <!--#### BRANDBAR ####-->
+        <tr>
+            <td align="left" bgcolor="#ffffff" style="border-top:solid 1px #dddddc;">
+                <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=brandbar&mailID=16462&email=%7B[email]%7D&url=https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome.html" target="_blank">
+                    <table style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; width:100%;" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td align="left" class="mobpad-0-0-0-0" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 12px;">
+                                <img src="https://www.selectscience.net/images/mailshots/thermo/2018-Q3-ThermoFisherScientific-13px.png" alt="Thermo Fisher Scientific" width="200" height="50" style="vertical-align: bottom;" align="left" border="0" />
+                            </td>
+                        </tr>
+                    </table>
+                </a>
+            </td>
+        </tr>
+        <!--#### //BRANDBAR ####-->
+
+        <!--#### HEADER ####-->
+        <tr>
+            <td>
+                <table style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; width: 100%; margin:auto;" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                        <td>
+                            <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=hea&mailID=16462&email=%7B[email]%7D&url=https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Flife-science%2Fcell-analysis%2Fcell-analysis-instruments%2Fautomated-cell-counters.html%23videos" target="_blank">
+                                <img class="imgfill" src="https://www.selectscience.net/images/mailshots/thermo/Nov2021/Scalable_solutions1.jpg" alt="Connect performance and compliance" width="600" height="320" border="0" style="display:block; width: 100%; height: auto;" />
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //HEADER ####-->
+
+        <!--#### spacer ####-->
+        <tr>
+            <td height="10"></td>
+        </tr>
+
+        <!--#### SUBHEAD AND BUTTON ####-->
+        <tr>
+            <td class="mobpad-10-13-10-13" width="100%" valign="top" style="padding-top: 0px; padding-right: 25px; padding-bottom: 0px; padding-left: 25px;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="color: #ee3134; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; font-weight: bold; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                    <tr>
+
+                        <!--#### subhead ####-->
+                        <td class="colwrap" align="center" valign="top" width="375">
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="color: #ee3134; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; font-weight: bold;">
+                                <tr>
+                                    <td class="mobpad-0-0-10-0" align="left" valign="top" style="padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 0px;">
+                                        Simple and automated cell counts with software that supports&nbsp;compliance
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+
+                        <!--#### button ####-->
+                        <td class="colwrap" width="225" valign="middle" style="padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px;">
+                            <table width="100%" align="center" border="0" cellpadding="10" cellspacing="0" style="background:#ee3134; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 16px; color: #ffffff; text-decoration: none; font-weight: bold; mso-padding-alt: 10px; mso-cellspacing: 0px;">
+                                <tr>
+                                    <td height="20" valign="middle" style="text-align: center; width:100%;">
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url=https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Flife-science%2Fcell-analysis%2Fcell-analysis-instruments%2Fautomated-cell-counters.html" target="_blank" style="width:100%; display: inline-block; color: #ffffff; text-decoration: none;">Find out more</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //SUBHEAD AND BUTTON ####-->
+
+        <!--#### BODY CONTENT ####-->
+        <tr>
+            <td class="mobpad-10-13-10-13" width="100%" valign="top" style="padding-top: 0px; padding-right: 25px; padding-bottom: 0px; padding-left: 25px;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="mso-padding-alt: 0px; mso-cellspacing: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333;">
+
+                    <!--#### copy full-width ####-->
+                    <tr>
+                        <td class="colwrap" colspan="2" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                                <tr>
+                                    <td class="mobpad-0-0-10-0" align="left" valign="top" style="padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px;">
+                                        The Invitrogen&trade; Countess&trade; 3 and Countess&trade; 3 FL Automated Cell Counters combine high performance with regulatory compliance support for busy labs that need efficient&nbsp;processes.
+                                        <br />
+                                        <ul style="line-height:20px; margin-top:5px; margin-bottom:5px;">
+                                            <li><strong>High performance</strong>&mdash;get accurate and reproducible cell counts in&nbsp;seconds</li>
+                                            <li><strong>21 CFR Part 11 software</strong>&mdash;supports regulatory compliance for security and&nbsp;traceability</li>
+                                            <li><strong>Intuitive interface</strong>&mdash;simple to use, with several convenient&nbsp;features</li>
+                                        </ul>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //BODY CONTENT ####-->
+ <!--#### spacer ####-->
+        <tr>
+            <td height="8">&nbsp;</td>
+        </tr>
+        <!--#### spacer ####-->
+        <tr>
+            <td class="mobpad-0-0-10-0" align="center" valign="top" style="padding-top: 0px; padding-right: 15px; padding-bottom: 0px; padding-left: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; font-weight: bold;"><a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url=https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Flife-science%2Fcell-analysis%2Fcell-analysis-instruments%2Fautomated-cell-counters.html" target="_blank" style="color: #6caae3; text-decoration:underline;">Get more information about Countess 3 and 3 FL Automated Cell&nbsp;Counters&nbsp;&raquo;</a></td>
+        </tr>
+		 <!--#### spacer ####-->
+        <tr>
+            <td height="8">&nbsp;</td>
+        </tr>
+ <!--#### THREE COLLUMN TEXT AND IMAGE - OPTION 2####-->
+        <tr>
+            <td class="mobpad-0-0-0-0" width="100%" valign="top" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                    <tr>
+
+                        <!--#### LEFT ####-->
+                        <th bgcolor="#FFFFFF" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 194px;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+                                <tr>
+                                    <td style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Flife-science%2Fcell-analysis%2Fcell-analysis-instruments%2Fautomated-cell-counters%2Fcountess-3-fl-automated-cell-counter.html%23fluorescence" target="_blank"><img class="imgfill" src=" https://www.selectscience.net/images/mailshots/thermo/Nov2021/EM5083257-thumb1.png" alt="Thermo Fisher Scientific" width="194"  style="display:block;" align="top" border="0" /></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url=https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Flife-science%2Fcell-analysis%2Fcell-analysis-instruments%2Fautomated-cell-counters%2Fcountess-3-fl-automated-cell-counter.html%23fluorescence" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Watch how-to video &raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+
+                        <!--#### center space ####-->
+                        <th bgcolor="#ffffff" class="colwrap" valign="top" style="font-weight:normal; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;"></th>
+
+                        <!--#### CENTER ####-->
+                        <th bgcolor="#FFFFFF" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 195;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+                                <tr>
+                                    <td style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Freference-components%2Fbid-reference-components%2Fcountess-3d-demo.html%23virtual-tour" target="_blank"><img class="imgfill" src=" https://www.selectscience.net/images/mailshots/thermo/Nov2021/EM5083257-thumb2.png" alt="Thermo Fisher Scientific" width="195"  style="display:block;" align="top" border="0" /></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Freference-components%2Fbid-reference-components%2Fcountess-3d-demo.html%23virtual-tour" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Take a virtual tour &raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+
+						<!--#### center space ####-->
+                        <th bgcolor="#ffffff" class="colwrap" valign="top" style="font-weight:normal; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;"></th>
+
+                        <!--#### RIGHT ####-->
+                        <th bgcolor="#FFFFFF" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 194px;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+                                <tr>
+                                    <td style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fglobal%2Fforms%2Fcountess-automated-cell-counter-demo-quote.html" target="_blank"><img class="imgfill" src=" https://www.selectscience.net/images/mailshots/Nov2021/EM5083257-thumb3.png" alt="Thermo Fisher Scientific" width="194"  style="display:block;" align="top" border="0" /></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fglobal%2Fforms%2Fcountess-automated-cell-counter-demo-quote.html" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Request a demo &raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //THREE COLLUMN TEXT AND IMAGE - OPTION 2 ####-->
+
+		<!--#### spacer ####-->
+        <tr>
+            <td height="8" style="font-size: 8px; line-height: 8px;" >&nbsp;</td>
+        </tr>
+
+		 <!--#### SECONDARY TEXT CTA ####-->
+        <tr>
+            <td bgcolor="#262262" class="mobpad-10-13-10-13" width="100%" valign="top" style="padding-top: 0px; padding-right: 25px; padding-bottom: 0px; padding-left: 25px;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                    <tr>
+                        <td class="colwrap" colspan="2" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                                <tr>
+                                    <td class="mobpad-0-0-10-0" align="center" valign="top" style="padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px;">
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fbiotech-lab-solutions.html" target="_blank" style="color: #6caae3;text-decoration:underline;">Explore our research solutions for biotechnology&nbsp;companies&nbsp;&raquo;</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //SECONDARY TEXT CTA ####-->
+
+        <!--#### spacer ####-->
+        <tr>
+            <td height="8"></td>
+        </tr>
+
+ <!--#### THREE COLLUMN TEXT AND IMAGE - OPTION 2####-->
+        <tr>
+            <td class="mobpad-0-0-0-0" width="100%" valign="top" style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;">
+
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                    <tr>
+
+                        <!--#### LEFT ####-->
+                        <th bgcolor="#262262" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 194px;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fproducts-and-services%2Fpromotions%2Fjump-start-biotech-new-lab-program.html" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Learn more about the benefits of our new lab&nbsp;program&nbsp;&raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+
+                        <!--#### center space ####-->
+                        <th bgcolor="#ffffff" class="colwrap" valign="top" style="font-weight:normal; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;"></th>
+
+                        <!--#### CENTER ####-->
+                        <th bgcolor="#262262" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 195;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fbiotech-lab-solutions.html%23resources" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Explore our biotech resource&nbsp;center&nbsp;&raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+
+						<!--#### center space ####-->
+                        <th bgcolor="#ffffff" class="colwrap" valign="top" style="font-weight:normal; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;"></th>
+
+                        <!--#### RIGHT ####-->
+                        <th bgcolor="#262262" class="colwrap" align="left" valign="top" style="font-weight:normal; width: 194px;">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #222222; mso-padding-alt: 0px; mso-cellspacing: 0px; ">
+
+                                <tr>
+                                    <td class="mobpad-8-12-8-12" align="center" valign="top" style="padding-top: 16px; padding-right: 24px; padding-bottom: 16px; padding-left: 24px;">
+                                        <!--#### copy ####-->
+
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fbiotech-lab-solutions%2Fscale-up-solutions.html" target="_blank" style="color: #6caae3; text-decoration:none;"><span style="text-decoration:underline;">Learn more about our scale&#8209;up&nbsp;solutions&nbsp;&raquo;</span></a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </th>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //THREE COLLUMN TEXT AND IMAGE - OPTION 2 ####-->
+
+		<!--#### spacer ####-->
+        <tr>
+            <td height="8" style="font-size: 8px; line-height: 8px;" >&nbsp;</td>
+        </tr>
+
+
+
+
+        <!--#### last spacer before footer ####-->
+        <tr>
+            <td height="20"></td>
+        </tr>
+
+
+        <!--#### FOOTER ####-->
+        <tr>
+            <td>
+                <table width="100%" bgcolor="#F3F3F3" border="0" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; line-height: 12px; color: #888888; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+
+                    <tr>
+                        <!-- COL1 -->
+
+                        <td class="colwrap" style="">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; line-height: 12px; color: #888888; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                                <tr>
+
+                                    <!--#### SOCIAL ####-->
+                                    <td width="72" valign="top" style="width: 32px; padding-top: 25px; padding-right: 15px; padding-bottom: 25px; padding-left: 25px;">
+                                        <table width="32" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 22px; color: #333333; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                                            <!--#### Facebook ####-->
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.facebook.com%2Fthermofisher" target="_blank"><img src="http://www.thermofisher.com/content/dam/LifeTech/emails/templates/q315-socialmedia-facebook.jpg" style="display:block;" width="32" height="32" alt="Facebook" title="Facebook" border="0" /></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td height="12"></td>
+                                            </tr>
+                                            <!--#### Twitter ####-->
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Ftwitter.com%2Fthermofisher" target="_blank"><img src="https://www.selectscience.net/images/mailshots/thermo/Feb_2021/q315-socialmedia-twitter.jpg" style="display:block;" alt="Twitter" width="32" height="32" border="0" /></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td height="12"></td>
+                                            </tr>
+                                            <!--#### LinkedIn ####-->
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fthermo-fisher-scientific" target="_blank"><img src="https://www.selectscience.net/images/mailshots/thermo/Feb_2021/q315-socialmedia-linkedin.jpg" style="display:block;" alt="LinkedIn" width="32" height="32" border="0" /></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td height="12"></td>
+                                            </tr>
+                                            <!--#### YouTube ####-->
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.youtube.com%2Fc%2Fthermofisher" target="_blank"><img src="https://www.selectscience.net/images/mailshotsthermo/Nov2021/YouTube25Oct.jpg" style="display:block;" alt="YouTube" width="32" height="32" border="0" /></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <!--#### //SOCIAL ####-->
+
+                                    <!--#### LEGAL ####-->
+                                    <td width="382" valign="top" style="width: 357px; padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 0px;">
+                                        <span style="font-size:11px; font-weight:bold;">For Research Use Only. Not for use in diagnostic procedures.</span>
+                                        <br /> &copy; 2021 Thermo Fisher Scientific Inc. All rights reserved. All trademarks are the property of Thermo Fisher Scientific and its subsidiaries unless otherwise specified. We hereby disclose that this email communication is for commercial&nbsp;purposes.
+                                        <!--#### Tactic ID ####-->
+                                        <br />                                         EM5083256
+                                       <br />
+                                        <br />
+                                        <!--#### Terms and Conditions ####-->
+
+                                        <!--#### Privacy Policy and Unsubscribe ####-->
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome%2Fglobal%2Fprivacy-policy.html" target="_blank" style="color: #6caae3; text-decoration:underline;">View</a> our privacy policy.
+
+
+                                        <br />
+                                        <strong>Thermo Fisher Scientific</strong>
+                                        <br /> 168 Third Avenue
+                                        <br /> Waltham, MA 02451
+                                        <br /> United States
+                                        <br />
+                                        <a href="http://www.selectscience.net/go/?itemID=10201&itemTypeID=4&linkID=ctamain&mailID=16462&email=%7B[email]%7D&url="https%3A%2F%2Fwww.thermofisher.com%2Fus%2Fen%2Fhome.html" target="_blank" style="color: #6caae3;text-decoration:underline;">thermofisher.com</a>
+                                    </td>
+                                    <!--#### //LEGAL ####-->
+                                </tr>
+                            </table>
+                        </td>
+
+
+                        <!--#### LOGO ####-->
+                        <td class="colwrap" width="146" align="center" valign="top" style="width: 121px; ">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; line-height: 12px; color: #888888; mso-padding-alt: 0px; mso-cellspacing: 0px;">
+                                <tr>
+                                    <td class="mobpad-0-0-0-0" align="center" style="padding-top: 80px; padding-right: 25px; padding-bottom: 25px; padding-left: 0px;">
+                                        <img src="https://www.selectscience.net/images/mailshots/thermo/q315-logo-thermofisherscientific.png" width="121" height="26" alt="Thermo Fisher Scientific" style="display:block;" />
+                                    </td>
+                                </tr>
+
+                                <!--#### under logo spacer ####-->
+                                <tr>
+                                    <td height="30"></td>
+                                </tr>
+                            </table>
+
+                        </td>
+                        <!--#### //LOGO ####-->
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--#### //FOOTER ####-->
+
+        <!--#### last spacer of email ####-->
+        <tr>
+            <td height="20"></td>
+        </tr>
+
+    </table>
+    <!--#### //MAIN WRAPPER ####-->
+
+	<!-- ### IF MAP - USE CODE BELOW ### -->
+	<!--
+		<img src="https://pixel.app.returnpath.net/pixel.gif?r=0609245115ee76ce471033bb60a24e1ca4c137b7&EMAIL_TYPE=MAP&c=%%CAMPAIGNCODE%%&CELLNAME=%%CELLNAME%%&FILENAME=%%FILENAME%%&CAMPAIGNCODE=%%CAMPAIGNCODE%%" width="1" height="1" />
+	-->
+
+
+
+
+<!-- ### IF NOT MAP - USE CODE BELOW ###-->
+<!--
+		<img src="https://pixel.app.returnpath.net/pixel.gif?r=0609245115ee76ce471033bb60a24e1ca4c137b7&EMAIL_TYPE=BNB&c=%%CAMPAIGNCODE%%&CELLNAME=%%CELLNAME%%&FILENAME=%%FILENAME%%&CAMPAIGNCODE=%%CAMPAIGNCODE%%" width="1" height="1" />
+	-->
+
+
+
+
+</body>
+
+</html>
